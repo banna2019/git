@@ -17,4 +17,5 @@ func main(){
     fmt.Println("我是在dev上开发的功能")
     fmt.Println("我是在dev1上开发的功能")
     fmt.Println("你好 嘿嘿!")
+    fmt.Println("你好 哈哈!")
 }
