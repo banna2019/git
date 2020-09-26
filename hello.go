@@ -14,4 +14,5 @@ func loop_number() {
 func main(){
 //    loop_number()
     fmt.Printf("Hello World !\n")
+    fmt.Println("我是在dev上开发的功能")
 }
